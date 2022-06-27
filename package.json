@@ -1,0 +1,29 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioOlivera/Curso-de-Asincronismo-con-JavaScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "Mario Olivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarioOlivera/Curso-de-Asincronismo-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/MarioOlivera/Curso-de-Asincronismo-con-JavaScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
